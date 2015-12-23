@@ -46,6 +46,12 @@ StringScore_Swift is a Swift library which provides fast fuzzy string matching/s
 "Hillsdale Michigan".score(word: "Hillsd", fuzziness:1.0)	// ->0.683333333333333
 ```
 
+## Installing
+
+Installing StringScore is easy with Carthage:
+
+    github "Arclite/StringScore_Swift" "carthage"
+
 ## Parameters
 
 ### Fuzziness
